@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f8b3211-dea0-44e0-9be6-543cbbabb4b1" name="Changes" comment="" />
+    <list default="true" id="9f8b3211-dea0-44e0-9be6-543cbbabb4b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +17,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -32,7 +39,9 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.home.html.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/cloudmart/assets&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/cloud-mart&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -96,6 +105,15 @@
       <workItem from="1737195695299" duration="2357000" />
       <workItem from="1737381496223" duration="174000" />
       <workItem from="1737381709654" duration="1140000" />
+      <workItem from="1737528688485" duration="161000" />
+      <workItem from="1737528860266" duration="959000" />
+      <workItem from="1737530057261" duration="120000" />
+      <workItem from="1737530537905" duration="2023000" />
+      <workItem from="1737607111750" duration="1460000" />
+      <workItem from="1737608583518" duration="2461000" />
+      <workItem from="1737611073182" duration="264000" />
+      <workItem from="1737611440988" duration="10000" />
+      <workItem from="1737612019514" duration="4633000" />
     </task>
     <servers />
   </component>
